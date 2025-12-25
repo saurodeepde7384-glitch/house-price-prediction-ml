@@ -22,4 +22,4 @@ input_scaled = scaler.transform(input_data)
 # Predict
 price = model.predict(input_scaled)
 
-print(f"\n🏠 Predicted House Price: ₹{price[0]:,.0f}")
+print(f"\nPredicted House Price: ₹{price[0]:,.0f}")
