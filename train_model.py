@@ -33,4 +33,4 @@ model.fit(X_train, y_train)
 joblib.dump(model, "house_price_model.pkl")
 joblib.dump(scaler, "scaler.pkl")
 
-print("✅ Model trained with basic preprocessing!")
+print("Model trained with basic preprocessing!")
