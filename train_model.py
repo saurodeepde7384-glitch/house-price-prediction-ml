@@ -16,13 +16,9 @@ df["size_sqft"].fillna(df["size_sqft"].mean(), inplace=True)
 X = df[["size_sqft", "bedrooms"]]
 y = df["price"]
 
-# 3. Feature scaling
-scaler = StandardScaler()
-X_scaled = scaler.fit_transform(X)
-
 # Train-test split
 X_train, X_test, y_train, y_test = train_test_split(
-    X_scaled, y, test_size=0.2, random_state=42
+    X, y, test_size=0.2, random_state=42
 )
 
 # Train model
