@@ -28,8 +28,6 @@ Load and visualize the dataset (house_data.csv)
 
 Handle missing values
 
-Scale continuous features
-
 Train a regression model (Linear Regression)
 
 Evaluate performance using metrics such as R-squared and Mean Absolute Error
