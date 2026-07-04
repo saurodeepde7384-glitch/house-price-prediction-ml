@@ -16,10 +16,7 @@ input_data = pd.DataFrame(
     columns=["size_sqft", "bedrooms"]
 )
 
-input_scaled = scaler.transform(input_data)
-
-
 # Predict
-price = model.predict(input_scaled)
+price = model.predict(input_data)
 
 print(f"\nPredicted House Price: ₹{price[0]:,.0f}")
