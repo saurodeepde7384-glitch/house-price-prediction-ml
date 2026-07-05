@@ -3,7 +3,7 @@ import pandas as pd
 
 # Load model & scaler
 model = joblib.load("house_price_model.pkl")
-scaler = joblib.load("scaler.pkl")
+
 
 # User input
 size = float(input("Enter house size (sqft): "))
