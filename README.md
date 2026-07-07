@@ -4,12 +4,12 @@ A beginner-friendly Python machine learning project that predicts house prices b
 
 # Features
 
-✔ Handles missing values
-✔ Feature scaling using StandardScaler
-✔ Linear Regression model for price prediction
-✔ Clean preprocessing workflow
-✔ Command-line based prediction tool
-✔ Test/train split with evaluation metrics
+- Handles missing values
+- Feature scaling using StandardScaler
+- Linear Regression model for price prediction
+- Clean preprocessing workflow
+- Command-line based prediction tool
+- Test/train split with evaluation metrics
 
 # Project Structure
 .
@@ -67,9 +67,9 @@ python train_model.py
 
 This will:
 
-✔ Load and preprocess the dataset
-✔ Train a regression model
-✔ Save the trained model locally
+- Load and preprocess the dataset
+- Train a regression model
+- Save the trained model locally
 
 # Predict House Prices
 
