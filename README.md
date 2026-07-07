@@ -1,8 +1,8 @@
-📦 House Price Prediction using Machine Learning
+# House Price Prediction using Machine Learning
 
 A beginner-friendly Python machine learning project that predicts house prices based on features such as house size and number of bedrooms. This repository walks through data preprocessing, model training, model evaluation, and interactive prediction via the command line.
 
-📌 Features
+# Features
 
 ✔ Handles missing values
 ✔ Feature scaling using StandardScaler
@@ -11,16 +11,16 @@ A beginner-friendly Python machine learning project that predicts house prices b
 ✔ Command-line based prediction tool
 ✔ Test/train split with evaluation metrics
 
-📁 Project Structure
+# Project Structure
 .
 ├── house_data.csv          # Dataset used for training
 ├── train_model.py          # Script to train and save the model
 ├── predict_price.py        # Script to predict price from user inputs
 ├── requirements.txt        # Dependencies
 ├── .gitignore              # Exclude environment and build files
-└── README.md               # This file 😊
+└── README.md               # This file 
 
-🧠 About the Project
+# About the Project
 
 This project demonstrates a typical machine learning workflow using Python and Scikit-Learn:
 
@@ -38,7 +38,7 @@ Load the model and make predictions from custom input
 
 This helps understand the fundamentals of machine learning projects in a real-world context.
 
-📦 Tech Stack
+# Tech Stack
 
 – Python
 – Pandas
@@ -47,18 +47,18 @@ This helps understand the fundamentals of machine learning projects in a real-wo
 – JobLib (or Pickle)
 – Command-line interface
 
-🚀 Getting Started
-📥 Clone the repository
+* Getting Started
+# Clone the repository
 git clone https://github.com/saurodeepde7384-glitch/house-price-prediction-ml.git
 cd house-price-prediction-ml
 
-🧰 Install dependencies
+# Install dependencies
 
 Using pip:
 
 pip install -r requirements.txt
 
-🧪 Train the Model
+# Train the Model
 
 Before making predictions, train the model:
 
@@ -71,7 +71,7 @@ This will:
 ✔ Train a regression model
 ✔ Save the trained model locally
 
-💡 Predict House Prices
+# Predict House Prices
 
 After training, you can predict house prices using:
 
@@ -86,7 +86,7 @@ Number of bedrooms (e.g., 3)
 
 The script will return the predicted price based on the trained model.
 
-📊 Example Usage
+# Example Usage
 
 After training:
 
@@ -94,7 +94,7 @@ Enter house size (in sq. ft): 1600
 Enter number of bedrooms: 3
 Predicted price: $286,453 (example)
 
-📈 Evaluation Metrics
+# Evaluation Metrics
 
 Your model is evaluated using:
 
@@ -104,7 +104,7 @@ MAE (Mean Absolute Error) — measures average absolute errors
 
 These help you understand the performance and real accuracy of your model.
 
-🤝 Contributing
+# Contributing
 
 Contributions are welcome! If you want to improve this project:
 
@@ -116,7 +116,7 @@ Make your changes
 
 Submit a pull request
 
-❓ Ideas for Improvements
+# Ideas for Improvements
 
 Here are some suggestions to enhance this project:
 
@@ -125,6 +125,6 @@ Here are some suggestions to enhance this project:
 ✔ Add EDA notebook with visualizations
 ✔ Create a web app (Flask/FastAPI) for UI interface
 
-📄 License
+ # License
 
-This project is open-source — feel free to reuse and adapt! (If you want a specific license like MIT or Apache, mention it here.)
+This project is open-source — feel free to reuse and adapt!
