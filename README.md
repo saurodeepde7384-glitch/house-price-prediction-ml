@@ -5,11 +5,11 @@ A beginner-friendly Python machine learning project that predicts house prices b
 # Features
 
 - Handles missing values
-- Feature scaling using StandardScaler
 - Linear Regression model for price prediction
 - Clean preprocessing workflow
 - Command-line based prediction tool
 - Test/train split with evaluation metrics
+  
 
 # Project Structure
 .
@@ -26,7 +26,7 @@ This project demonstrates a typical machine learning workflow using Python and S
 
 Load and visualize the dataset (house_data.csv)
 
-Handle missing values
+Handle missing values using Simple Imputer
 
 Train a regression model (Linear Regression)
 
