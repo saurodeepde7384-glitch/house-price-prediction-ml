@@ -124,6 +124,7 @@ Here are some suggestions to enhance this project:
 ✔ Implement more advanced regression models (Random Forest, XGBoost)
 ✔ Add EDA notebook with visualizations
 ✔ Create a web app (Flask/FastAPI) for UI interface
+✔ Use Cross Validation
 
  # License
 
