@@ -123,7 +123,7 @@ Here are some suggestions to enhance this project:
 ✔ Add support for more features (location, age of house, etc.)
 ✔ Implement more advanced regression models (Random Forest, XGBoost)
 ✔ Add EDA notebook with visualizations
-✔ Create a web app (Flask/FastAPI) for UI interface
+✔ Create a web app (FastAPI) for UI interface
 ✔ Use Cross Validation
 
  # License
