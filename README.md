@@ -1,4 +1,4 @@
-# House Price Prediction using Machine Learning
+# House Price Prediction Using Machine Learning
 
 A beginner-friendly Python machine learning project that predicts house prices based on features such as house size and number of bedrooms. This repository walks through data preprocessing, model training, model evaluation, and interactive prediction via the command line.
 
