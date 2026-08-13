@@ -54,7 +54,7 @@ cd house-price-prediction-ml
 
 # Install dependencies
 
-Using pip:
+Using pip/pip3:
 
 pip install -r requirements.txt
 
