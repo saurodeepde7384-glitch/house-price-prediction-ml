@@ -8,7 +8,7 @@ A beginner-friendly Python machine learning project that predicts house prices b
 - Linear Regression model for price prediction
 - Clean preprocessing workflow
 - Command-line based prediction tool
-- Test/train split with evaluation metrics
+- Test/train split with Evaluation metrics
   
 
 # Project Structure
