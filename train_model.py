@@ -9,7 +9,7 @@ from sklearn.impute import SimpleImputer
 # Load data
 df = pd.read_csv("house_data.csv")
 
-# ----- PREPROCESSING -----
+# ----- DATA PREPROCESSING -----
 
 # Features & target
 X = df[["size_sqft", "bedrooms"]]
