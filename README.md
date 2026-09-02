@@ -12,12 +12,12 @@ A beginner-friendly Python machine learning project that predicts house prices b
   
 
 # Project Structure
-├── house_data.csv          # Dataset used for training
-├── train_model.py          # Script to train and save the model
-├── predict_price.py        # Script to predict price from user inputs
-├── requirements.txt        # Dependencies
-├── .gitignore              # Exclude environment and build files
-└── README.md               # This file 
+├── house_data.csv          
+├── train_model.py          
+├── predict_price.py        
+├── requirements.txt       
+├── .gitignore             
+└── README.md             
 
 # About the Project
 
